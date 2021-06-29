@@ -8,7 +8,4 @@
  It can identify between these 5 people and additionally, if a test input of a person not among these 5 people is provided, it gives the output as "random"
  
 
- 
- 
- ## Using the code on a custom dataset
- 
+
