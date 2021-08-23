@@ -1,4 +1,9 @@
 # Efficient face recognition system
+video: https://drive.google.com/file/d/1fdUfu-zghfVal_Y9RRfRnrlf053FvQ1Z/view
+
+medium blog: https://medium.com/newolf-society/quarantino-d39ce4acd4c2
+
+
  A fast and accurate face recognition system that requires very little data to train on. 
  The faces in the input images are first converted into a set of 128 features using Open Face, as it is always easier to train on tabular data compared to images.
  This data is then trained on a simple ANN to obtain a test accuracy of about 96%. 
